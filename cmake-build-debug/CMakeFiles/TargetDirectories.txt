@@ -1,0 +1,3 @@
+/home/vesko/Documents/FMI/OOP/dom1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/vesko/Documents/FMI/OOP/dom1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/vesko/Documents/FMI/OOP/dom1/cmake-build-debug/CMakeFiles/dom1.dir
